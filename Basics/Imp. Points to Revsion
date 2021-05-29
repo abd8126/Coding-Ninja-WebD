@@ -1,0 +1,13 @@
+Paired Tag or :
+html => <html>
+head => <head>
+title => <title>
+paragraph => <p>
+
+
+Single Tag:
+Break <br>
+
+
+SpecialTag :
+&nbsp => For Provie space in two word
