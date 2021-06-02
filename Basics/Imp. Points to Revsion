@@ -3,6 +3,20 @@ html => <html>
 head => <head>
 title => <title>
 paragraph => <p>
+ancher tag => <a>
+
+List : 
+Ordered List => ol
+Unorered List => ul
+List => li
+
+defult typeof list is disc but waant to change you can
+hint: <ul type="square">
+hint: <ol type="A" strat="10">
+
+To Set image:
+<img src="Basics/src/image.jpg" alt="Five Tips">
+alt => used to give image when image is not loding
 
 
 Single Tag:
@@ -11,3 +25,32 @@ Break <br>
 
 SpecialTag :
 &nbsp => For Provie space in two word
+
+Relative Url : Link other web pages with same site
+<a href="https://www.codingninjas.com/"></a>
+heeree we can also set to the target:
+<a href="https://www.codingninjas.com/" target="_blank or_self"></a>
+
+
+Active link Color: Red(deault)
+
+-----------------------------------------------------------
+
+Container or BLock Element:
+<div>
+
+Segamentic Elements: Which tag provide additional information knows as Segamentic Element
+
+<header> - for header
+<nav> - for navigation
+<main>
+<footer>
+<section>
+<aside> - used for sidebar
+<form>
+<article>
+
+Interal Links: 
+<a href="#"> Back to Top </a> -> for bottom to top
+
+
