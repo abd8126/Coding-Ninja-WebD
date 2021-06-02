@@ -36,8 +36,16 @@ Active link Color: Red(deault)
 
 -----------------------------------------------------------
 
-Container or BLock Element:
+Container or BLock Element: They always start new line and occupy complete space
 <div>
+<h1> to <h6>
+<p>
+
+Inline Element: They not occupy full space
+<image>
+<a href>
+
+
 
 Segamentic Elements: Which tag provide additional information knows as Segamentic Element
 
@@ -52,5 +60,6 @@ Segamentic Elements: Which tag provide additional information knows as Segamenti
 
 Interal Links: 
 <a href="#"> Back to Top </a> -> for bottom to top
+
 
 
